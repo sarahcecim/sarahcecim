@@ -17,6 +17,11 @@ My approach is dedicated to creating innovative solutions and clean code, aiming
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 
 </div>
 
