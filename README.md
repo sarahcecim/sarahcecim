@@ -1,10 +1,10 @@
 
 ### 🙋‍♀️ About Me:
-Hey! I'm Sarah Cecim, a web development enthusiast based in São Paulo. At 18 years old, my journey so far has revolved around HTML, CSS, and JavaScript, where I've honed strong skills in crafting intuitive and interactive interfaces.
+Olá! Sou Sarah Cecim, entusiasta de desenvolvimento web baseada em São Paulo. Aos 18 anos, minha jornada até agora tem girado em torno de HTML, CSS e JavaScript, onde aprimorei habilidades sólidas na criação de interfaces intuitivas e interativas.
 
-While my foundation lies in these technologies, I'm always eager for new challenges and opportunities to broaden my skill set. Currently, I'm immersed in learning more advanced technologies, continuously exploring and deepening my knowledge.
+Embora minha base esteja nessas tecnologias, estou sempre ansiosa por novos desafios e oportunidades para ampliar meu conjunto de habilidades. Atualmente, estou imersa no aprendizado de tecnologias mais avançadas, explorando e aprofundando continuamente meu conhecimento.
 
-My approach is dedicated to creating innovative solutions and clean code, aiming to provide the best possible user experience. I'm open to collaborations and exciting projects, so feel free to check out my work on GitHub and get in touch to discuss exciting ideas or collaboration opportunities.
+Minha abordagem é dedicada à criação de soluções inovadoras e código limpo, visando proporcionar a melhor experiência possível ao usuário. Estou aberta a colaborações e projetos empolgantes, então sinta-se à vontade para conferir meu trabalho no GitHub e entrar em contato para discutir ideias emocionantes ou oportunidades de colaboração.
 
 ## 💻 Tech Stack:
 
