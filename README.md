@@ -6,6 +6,7 @@ Embora minha base esteja nessas tecnologias, estou sempre ansiosa por novos desa
 
 Minha abordagem é dedicada à criação de soluções inovadoras e código limpo, visando proporcionar a melhor experiência possível ao usuário. Estou aberta a colaborações e projetos empolgantes, então sinta-se à vontade para conferir meu trabalho no GitHub e entrar em contato para discutir ideias emocionantes ou oportunidades de colaboração.
 
+Vamos nessa juntos!
 ## 💻 Tech Stack:
 
 <div style="display: inline_block"><br/>
