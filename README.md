@@ -23,6 +23,7 @@ Vamos nessa juntos!
 <img align= "center" alt="html5" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img align= "center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
 
