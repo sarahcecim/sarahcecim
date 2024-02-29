@@ -29,6 +29,7 @@ Vamos nessa juntos!
 
 
 
+
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahcecim&show_icons=true&theme=dracula)
 
 
