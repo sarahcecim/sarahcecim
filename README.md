@@ -4,7 +4,7 @@ Olá! Sou Sarah Cecim, entusiasta de desenvolvimento web baseada em São Paulo. 
 
 Embora minha base esteja nessas tecnologias, estou sempre ansiosa por novos desafios e oportunidades para ampliar meu conjunto de habilidades. Atualmente, estou imersa no aprendizado de tecnologias mais avançadas, explorando e aprofundando continuamente meu conhecimento.
 
-Minha abordagem é dedicada à criação de soluções inovadoras e código limpo, visando proporcionar a melhor experiência possível ao usuário. Estou aberta a colaborações e projetos empolgantes, então sinta-se à vontade para conferir meu trabalho no GitHub e entrar em contato comigo.
+Minha abordagem é dedicada à criação de soluções inovadoras e código limpo, visando proporcionar a melhor experiência possível ao usuário. Estou aberta a colaborações e projetos empolgantes, então sinta-se à vontade para conferir meu trabalho no GitHub, no Linkedin e entrar em contato comigo.
 
 Vamos nessa juntos!
 ## 💻 Tech Stack:
