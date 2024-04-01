@@ -1,6 +1,6 @@
 
 ### 🙋‍♀️ About Me:
-Olá! Sou Sarah Cecim, entusiasta de desenvolvimento web. Aos 18 anos, minha jornada até agora tem girado em torno de HTML, CSS e JavaScript, onde aprimorei habilidades sólidas na criação de interfaces intuitivas e interativas.
+Olá! Sou Sarah Cecim, entusiasta de Desenvolvimento Web. Aos 18 anos, minha jornada até agora tem girado em torno de HTML, CSS e JavaScript, onde aprimorei habilidades sólidas na criação de interfaces intuitivas e interativas.
 
 Embora minha base esteja nessas tecnologias, estou sempre ansiosa por novos desafios e oportunidades para ampliar meu conjunto de habilidades. Atualmente, estou imersa no aprendizado de tecnologias mais avançadas, explorando e aprofundando continuamente meu conhecimento.
 
