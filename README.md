@@ -1,12 +1,9 @@
 
-### 🙋‍♀️ About Me:
-Olá! Sou Sarah Cecim, entusiasta de Desenvolvimento Web. Aos 18 anos, minha jornada até agora tem girado em torno de HTML, CSS e JavaScript, onde aprimorei habilidades sólidas na criação de interfaces intuitivas e interativas.
+### 🙋‍♀️ 1 Notification for you:
+print("Welcome to my world!") 
+user = input("Please, enter your name: ")
+print(f"Hi, {user}! Welcome to my digital galaxy. May the Force be with you!")
 
-Embora minha base esteja nessas tecnologias, estou sempre ansiosa por novos desafios e oportunidades para ampliar meu conjunto de habilidades. Atualmente, estou imersa no aprendizado de tecnologias mais avançadas, explorando e aprofundando continuamente meu conhecimento.
-
-Minha abordagem é dedicada à criação de soluções inovadoras e código limpo, visando proporcionar a melhor experiência possível ao usuário. Estou aberta a colaborações e projetos empolgantes, então sinta-se à vontade para conferir meu trabalho no GitHub, no Linkedin e entrar em contato comigo.
-
-Vamos nessa juntos!
 ## 💻 Tech Stack:
 
 <div style="display: inline_block"><br/>
