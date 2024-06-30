@@ -4,7 +4,7 @@ print("Welcome to my world!")
 
 user = input("Please, enter your name: ")
 
-print(f"Hi, {user}! Welcome to my digital galaxy. May the Force be with you!")
+print(f"Hi, {user}! Welcome to my digital galaxy :)")
 
 
 ## 💻 Tech Stack:
