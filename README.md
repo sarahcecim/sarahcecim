@@ -6,8 +6,6 @@ user = input("Please, enter your name: ")
 
 print(f"Hi, {user}! Welcome to my digital galaxy :)")
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdrewdavidpark.com%2FChrome-Dino-Olympics&psig=AOvVaw230m60voupMyQ43IDmVqSm&ust=1721145383694000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiJ26q0qYcDFQAAAAAdAAAAABAE
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.canva.com/design/DAGLB3xFw2w/RlLp0BfJLr5vGoWnLkMfUw/edit?utm_content=DAGLB3xFw2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahhcecim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahcecim/)
