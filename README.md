@@ -15,6 +15,7 @@ print(f"Hi, {user}! Nice to meet u <3 ")
 
 ## 💻 Tech Stack:
 
+<div style="display: inline_block"><br/>
 <img align= "center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
