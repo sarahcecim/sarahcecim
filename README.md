@@ -1,7 +1,7 @@
 
 ### 🙋‍♀️ sarah.py
 
-print(f"Hi, {user}! Nice to meet u <3 ")
+print(f"Hi, {user}! Nice to meet u <3")
 
 <img src="https://media.istockphoto.com/id/1557462871/vector/isometric-concept-of-workplace-with-laptop-phone-coffee-and-office-equipment-computer-with.jpg?s=612x612&w=0&k=20&c=zpFzKyMHMYxoqL0qSmSJAog-oo0Jt9boWOkguj5ZRIk=" width="400px" align="right" style="max-width: 100%;"/>
 
