@@ -13,7 +13,7 @@ print(f"Hi, {user}! Nice to meet u <3 ")
 [![Riot Games](https://img.shields.io/badge/Riot_Games-000?style=for-the-badge&logo=riotgames&logoColor=white)](https://www.canva.com/design/DAGLB3xFw2w/RlLp0BfJLr5vGoWnLkMfUw/edit?utm_content=DAGLB3xFw2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 If u need to contact me with urgency click ⤵️ <br>
- ![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511932143053&text&type=phone_number&app_absent=0)
+                          ![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511932143053&text&type=phone_number&app_absent=0)
 
 ## 💻 Tech Stack:
 
