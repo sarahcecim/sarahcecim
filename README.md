@@ -5,7 +5,6 @@ print(f"Hi, {user}! Nice to meet u <3")
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bf94e4&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Sarah%3B+I'm+19+years+old%3B+I'm+from+Brazil%3B+I'm+studying+Datas+Science%3B+Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarahcecim&show_icons=true&count_private=true&hide_border=true&title_color=bf94e4&icon_color=bf94e4&text_color=c9d1d9&bg_color=0d1117" alt="Sarah github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhcecim&layout=compact&hide_border=true&title_color=bf94e4&text_color=bf94e4&bg_color=0d1117" />
 </div>
 
