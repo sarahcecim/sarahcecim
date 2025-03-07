@@ -13,7 +13,7 @@ print(f"Hi, {user}! Nice to meet u <3")
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511932143053&text&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahhcecim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahcecim/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sasah.bc)
 [![Riot Games](https://img.shields.io/badge/Riot_Games-000?style=for-the-badge&logo=riotgames&logoColor=white)](https://www.canva.com/design/DAGLB3xFw2w/RlLp0BfJLr5vGoWnLkMfUw/edit?utm_content=DAGLB3xFw2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 💻 Tech Stack:
