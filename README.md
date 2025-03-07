@@ -5,6 +5,9 @@ print(f"Hi, {user}! Nice to meet u <3")
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bf94e4&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Sarah%3B+I'm+19+years+old%3B+I'm+from+Brazil%3B+I'm+studying+Datas+Science%3B+Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
+<div align="center">  
+<img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="400px" align="center" style="max-width: 100%;"/>
+</div>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.canva.com/design/DAGLB3xFw2w/RlLp0BfJLr5vGoWnLkMfUw/edit?utm_content=DAGLB3xFw2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511932143053&text&type=phone_number&app_absent=0)
@@ -31,8 +34,6 @@ print(f"Hi, {user}! Nice to meet u <3")
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img align= "center" alt="html5" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-
-<br><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="400px" align="center" style="max-width: 100%;"/>
 
 </div>
 	
