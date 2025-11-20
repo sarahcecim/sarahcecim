@@ -2,8 +2,6 @@
 ### 🙋‍♀️ sarah.py
 
 print(f"Hi, {user}! Nice to meet u <3")
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bf94e4&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Sarah%3B+I'm+19+years+old%3B+I'm+from+Brazil%3B+I'm+studying+Data+Science%3B+Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
 <div align="center">  
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="400px" align="center" style="max-width: 100%;"/>
